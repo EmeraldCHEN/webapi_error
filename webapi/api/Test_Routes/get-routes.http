@@ -1,0 +1,13 @@
+GET http://localhost:6000/api/gameschedule/
+#GET http://localhost:5000/api/gameschedule/f2
+
+#GET http://localhost:5000/api/players/
+
+#GET http://localhost:5000/api/poolpoints/
+#GET http://localhost:5000/api/poolpoints/1
+
+#GET http://localhost:5000/api/staff/
+#GET http://localhost:5000/api/staff/1
+
+#GET http://localhost:5000/api/teams/
+#GET http://localhost:5000/api/teams/AKLF

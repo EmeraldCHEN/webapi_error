@@ -1,0 +1,14 @@
+\\FS\STUDENT$\27044044\Desktop\webapi\api\bin\Debug\netcoreapp2.1\api.deps.json
+\\FS\STUDENT$\27044044\Desktop\webapi\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.json
+\\FS\STUDENT$\27044044\Desktop\webapi\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.dev.json
+\\FS\STUDENT$\27044044\Desktop\webapi\api\bin\Debug\netcoreapp2.1\api.dll
+\\FS\STUDENT$\27044044\Desktop\webapi\api\bin\Debug\netcoreapp2.1\api.pdb
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cache
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cs
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.AssemblyInfoInputs.cache
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.AssemblyInfo.cs
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.dll
+\\FS\STUDENT$\27044044\Desktop\webapi\api\obj\Debug\netcoreapp2.1\api.pdb
